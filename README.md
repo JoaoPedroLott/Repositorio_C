@@ -1,2 +1,2 @@
 # Repositorio_C
- Exercícios e trabalhos realizados na linguagem C
+ Repositório com exercícios e trabalhos da faculdade FUMEC desenvolvidos na linguagem C
